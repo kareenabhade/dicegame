@@ -1,0 +1,30 @@
+body{
+    background-color:#393E46;
+}
+
+img{
+    position: relative;
+}
+
+h1{
+    
+    font-family: Lobster;
+    color: lightgreen;
+    font-size: 700%;
+    text-align: center;
+    text-shadow: black 5px 3px;
+    
+}
+
+h2{
+    font-family: "Indie Flower";
+    color: #68B984;
+    font-weight:bolder;
+    font-size: 300%;
+}
+
+.col{
+    text-align: center;
+    padding: 40px;
+}
+
